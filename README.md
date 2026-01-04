@@ -32,10 +32,11 @@ Utilities: uuid
 
 Linting: ESLint
 
-Installation & Setup
+#Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/devkadiya7/<repo-name>.git
-cd KanbanTaskManager
+git clone https://github.com/devkadiya7/kanban_task_manager
+.git
+cd kanban_task_manager
 
 2️⃣ Install dependencies (Recommended: Yarn)
 yarn install
