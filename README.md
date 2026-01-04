@@ -34,8 +34,10 @@ Linting: ESLint
 
 #Installation & Setup
 1️⃣ Clone the repository
+
 git clone https://github.com/devkadiya7/kanban_task_manager
 .git
+
 cd kanban_task_manager
 
 2️⃣ Install dependencies (Recommended: Yarn)
